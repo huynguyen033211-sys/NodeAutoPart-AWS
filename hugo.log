@@ -1,0 +1,14 @@
+﻿hugo : WARN  deprecated: project config key languages.vi.languageName was deprecated in Hugo v0.158.0 and will be 
+removed in a future release. Use languages.vi.label instead.
+At line:1 char:1
++ hugo --logLevel debug > hugo.log 2>&1
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (WARN  deprecate....label instead.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+WARN  deprecated: project config key languages.en.languageName was deprecated in Hugo v0.158.0 and will be removed in 
+a future release. Use languages.en.label instead.
+Start building sites ΓÇª 
+hugo v0.163.3-4d22555aebf458d5d150500c9ac4bee5b24cf0d3+extended windows/amd64 BuildDate=2026-06-18T16:18:24Z VendorInfo=gohugoio
+
+INFO  static: syncing static files to \ duration 1.1578001s
